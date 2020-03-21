@@ -1,0 +1,22 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "a simple mean application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarunpatel1860/Mean-Stack-App.git"
+  },
+  "author": "tarun patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarunpatel1860/Mean-Stack-App/issues"
+  },
+  "homepage": "https://github.com/tarunpatel1860/Mean-Stack-App#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
